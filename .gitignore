@@ -1,0 +1,7 @@
+/src
+/scripts
+CMakeLists.txt
+package.xml
+
+#不忽略scripts目录下的yolodetect_node.py
+!/scripts/yolodetect_node.py
